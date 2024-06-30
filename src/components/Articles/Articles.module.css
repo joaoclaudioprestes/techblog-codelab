@@ -1,0 +1,14 @@
+.articles {
+  margin-bottom: 8.0rem;
+}
+
+.title {
+  font-size: 2.4rem;
+  margin-bottom: 2.4rem;
+}
+
+.box {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(30rem, 1fr));
+  gap: 3.2rem;
+}

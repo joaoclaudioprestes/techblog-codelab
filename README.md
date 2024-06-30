@@ -1,30 +1,15 @@
-# React + TypeScript + Vite
+# Desafios Frontend ☕🎯
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo(a) ao $\color{orange}{\textsf{Meu Repositório de Resoluções dos Desafios Frontend}}$! Este projeto open-source é um conjunto de desafios propostos pela comunidade $\color{orange}{\textsf{CodeLab}}$, organizada por $\color{purple}{\textsf{iuricode}}$. O propósito é ajudar as pessoas a praticarem seus conhecimentos em desenvolvimento frontend, abrangendo áreas como HTML, CSS, JavaScript e também bibliotecas como React, Vue e Angular. Abaixo estarão todas as minhas resoluções dos projetos feitos na comunidade.
 
-Currently, two official plugins are available:
+## Desafios ❤️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+| Status | Desafio | Nome |                        Deploy                        |     Código-fonte |
+| :----: | :-----: | :--: | :-------------------------------------------------: |  :----------: |
+|   ✅   |   01    | Blog | [Visitar](https://blog-codelab.vercel.app) |   [Acessar](https://github.com/joaoclaudioprestes/blog-codelab)  |
+|   ✅   |   02    | Jordan Shoes  | [Visitar](https://jordan-shoes-codelab.vercel.app) |   [Acessar](https://github.com/joaoclaudioprestes/jordan-shoes-codelab)  |
+|   ✅   |   03    | Tech Blog  | [Visitar](https://jordan-shoes-codelab.vercel.app) |   [Acessar](https://github.com/joaoclaudioprestes/jordan-shoes-codelab)  |
 
-## Expanding the ESLint configuration
+### Agradecimentos 🙏
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Em grande agradecimento ao $\color{purple}{\textsf{iuricode}}$ e à $\color{orange}{\textsf{CodeLab}}$ por proporcionarem esta oportunidade de aprendizado e colaboração na comunidade.
