@@ -68,4 +68,8 @@
   .subTitle {
     text-align: start;
   }
+
+  .button {
+    width: 214px;
+  }
 }

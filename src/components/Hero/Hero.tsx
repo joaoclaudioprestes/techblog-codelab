@@ -23,7 +23,7 @@ function Hero() {
               Seu destino único para dicas e tendências atuais.
             </p>
 
-            <div className="button">
+            <div className={styled.button}>
               <Button>Buscar Artigos</Button>
             </div>
           </div>
